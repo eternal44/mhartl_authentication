@@ -1,6 +1,4 @@
 # Ruby on Rails Tutorial: sample application
 
-This is the sample application for the
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+Template for user sign-in.  Clone and use it to build an app you want
+complete control over auhtentication.
